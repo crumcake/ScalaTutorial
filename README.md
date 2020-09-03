@@ -1,2 +1,2 @@
 # ScalaTutorial
-A tutorial for Scala
+A sample tutorial for Scala, for use in CS-330

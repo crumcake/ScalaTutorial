@@ -20,6 +20,6 @@ The currently most popular GitHub.com projects related to Scala are:
 My primary resources for my work this semester will be: the tutorials avaliable on the Scala source website: https://www.scala-lang.org/, the book 'Progamming in Scala' 2nd edition, ISBN 0981531644, and other resources in the Scala community. When I get stuck, I will probably look with caution on websites such as StackOverflow.com.
 
 # Sources
-  https://en.wikipedia.org/wiki/Scala_(programming_language)#Comparison_with_other_JVM_languages
+  https://en.wikipedia.org/wiki/Scala_(programming_language)
   https://github.com/search?l=Scala&o=desc&q=Scala&s=stars&type=Repositories
   

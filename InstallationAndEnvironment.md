@@ -23,3 +23,7 @@ Scala does require some 'boiler-plate code'. It is meant to be interoperable wit
 
 # How do you write comments in Scala?
 The same way as Java, with your comment sandwiched between forward slashes and asterisks. You can also use the double forward slash method.
+
+
+# Source
+https://www.scala-lang.org/

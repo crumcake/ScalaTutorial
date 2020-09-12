@@ -22,5 +22,4 @@ I also run my codes through IntelliJ IDEA.
 Scala does require some 'boiler-plate code'. It is meant to be interoperable with Java, after all.
 
 # How do you write comments in Scala?
-/*The same way as Java*/
-//This also works.
+The same way as Java, with your comment sandwiched between forward slashes and asterisks. You can also use the double forward slash method.

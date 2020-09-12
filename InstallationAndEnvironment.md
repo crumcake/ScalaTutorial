@@ -4,7 +4,7 @@ Conveniently, as a JVM language, Scala is not tied to any particular OS. It is c
 
 # Installation Instructions
 
-As I run a Windows OS, I only have direct experience in installing Scala on a Windows computer. Therefore, those are the instructions I will share here.
+As I use a Windows OS, I only have direct experience in installing Scala on a Windows computer. Therefore those are the instructions I will share here.
 Before you do any downloading, you need to ensure your machine has JDK already installed. You need to go to your Control Panel, then go from there to Programs and Features.
 Check to see if the Java Development Kit is listed. If it is, you can move on to the next step.
 

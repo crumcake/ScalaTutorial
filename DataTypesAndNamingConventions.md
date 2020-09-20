@@ -20,3 +20,9 @@ As a consequence of running on JVM, however, it does have several limitations su
 
 # Conversions in Scala
 Conversions in Scala are implicit. It's automatic. So, for example, if you try to add in 5 to float 6.0, you end up with an answer of 11.0 without having to do anything.
+
+# Sources
+https://docs.scala-lang.org/style/naming-conventions.html
+https://docs.scala-lang.org/overviews/core/value-classes.html#limitations
+https://docs.scala-lang.org/tour/implicit-conversions.html
+https://en.wikipedia.org/wiki/Scala_(programming_language)

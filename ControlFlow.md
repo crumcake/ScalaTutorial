@@ -35,6 +35,9 @@ Scala does not use Switch statements. Instead it uses Match statements, which ar
 
 # Sources
 https://docs.scala-lang.org/style/control-structures.html#trivial-conditionals
+
 https://docs.scala-lang.org/cheatsheets/
+
 https://docs.scala-lang.org/overviews/scala-book/for-loops.html
+
 https://docs.scala-lang.org/tour/pattern-matching.html
